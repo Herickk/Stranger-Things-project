@@ -2,4 +2,4 @@
 
 ## 🎬 Demo
 
-![Demo](imagens/demo.gif)
+![Demo](demo.gif)
